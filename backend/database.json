@@ -1,0 +1,18 @@
+{
+    "movimientos": [
+        {
+            "tipo": "ingreso",
+            "monto": 2000.0,
+            "categoria": "Auto",
+            "descripcion": "Ruedas",
+            "fecha": "2025-11-20T15:12:53.524829"
+        },
+        {
+            "tipo": "gasto",
+            "monto": 500.0,
+            "categoria": "Auto",
+            "descripcion": "Viaje",
+            "fecha": "2025-11-20T15:17:37.624351"
+        }
+    ]
+}
